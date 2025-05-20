@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class c2_scanner {
-    public static void main(String[] args){
+    public static void c2(){
 
         Scanner scanner  = new Scanner(System.in);
 
@@ -20,6 +20,5 @@ public class c2_scanner {
         System.out.println("hi "+urName);
         System.out.println("hi "+age);
         System.out.println("hi str: "+str);
-
     }
 }
