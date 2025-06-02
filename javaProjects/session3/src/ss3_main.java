@@ -4,6 +4,7 @@ public class ss3_main {
 
 //        c2_arraysInMethods.arraysInMethods();
 
-        c2_reversedArr.c2();
+//        c2_reversedArr.c2();
+        c2_varArg.c2_VarArgu();
     }
 }
