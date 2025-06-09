@@ -7,6 +7,8 @@ public class ss3_main {
 //        c2_reversedArr.c2();
 //        c2_varArg.c2_VarArgu();
 
-        c2_arrSearch.searchMain();
+//        c2_arrSearch.searchMain();
+
+        c2_sortArr.c2_sort_main();
     }
 }
