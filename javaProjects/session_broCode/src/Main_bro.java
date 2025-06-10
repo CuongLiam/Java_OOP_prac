@@ -4,6 +4,8 @@ public class Main_bro {
 //        GUI.gui();
 
 //        random.rand();
-        arrays.c3_arr();
+//        arrays.c3_arr();
+
+        OOP.oopMain();
     }
 }
