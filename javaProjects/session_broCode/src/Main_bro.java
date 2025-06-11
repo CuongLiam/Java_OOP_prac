@@ -6,6 +6,8 @@ public class Main_bro {
 //        random.rand();
 //        arrays.c3_arr();
 
-        OOP.oopMain();
+//        OOP.oopMain();
+
+        arrList.arrListMain();
     }
 }
