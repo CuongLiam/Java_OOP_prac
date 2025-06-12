@@ -5,6 +5,14 @@ public class Interfaces {
         // giong voi inheritance, nhung ma cu the hoa a class has/must do
         // classes can apply more than 1 interface, inheritance chi co 1 super
 
+//        Rabbit rabbit = new Rabbit();
+//
+//        rabbit.flee();
+
+        Fish fish = new Fish();
+        fish.flee();
+        fish.hunt();
+
 
     }
 }
